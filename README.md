@@ -34,9 +34,13 @@ para verificar se funcionou
 No diretório utils crie um arquivo .env e preencha-o da seguinte maneira
 
 DB_NAME=nome_do_banco
+
 DB_USER=seu_user
+
 DB_HOST=localhost
+
 DB_PASSWORD=sua_senha
+
 DB_PORT=porta_do_banco
 
 
