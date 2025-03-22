@@ -1,10 +1,11 @@
 # smart-bot
 
-## Configuração do Banco de Dados PostgreSQL
+## Executando o projeto
 
-Este guia explica como configurar o banco de dados PostgreSQL para rodar corretamente com a aplicação. Este guia parte do principio que o usuario ja possui o postgresql instalado 
+Este guia explica como configurar o banco de dados PostgreSQL  e as demais instruções para rodar corretamente com a aplicação. Este guia parte do principio que o usuario ja possui o postgresql instalado 
 
-
+### 1. clonar o repositório
+clone este repositório
 
 ### 2. Criar o Banco de Dados  
 Abra o **Prompt de Comando (cmd)** ou **PowerShell** e execute:  
